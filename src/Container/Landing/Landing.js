@@ -115,14 +115,14 @@ export default function Landing() {
         <Box marginRight={5}>
           <TextField
             id='outlined-error'
-            label='Search'
+            label='Filter by ID'
             variant='outlined'
             onChange={handleSearchChange}
           />
         </Box>
 
         <Button variant='contained' onClick={handleSearch}>
-          Search
+          filter
         </Button>
       </Box>
 
