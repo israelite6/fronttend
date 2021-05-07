@@ -22,14 +22,12 @@ const columns = [
     id: "is_disabled",
     label: "Disabled",
     minWidth: 100,
-    format: (value) => (value === "0" ? "No" : "Yes"),
   },
   {
     id: "is_reserved",
     label: "Reversed",
     minWidth: 170,
     align: "right",
-    format: (value) => (value === "0" ? "No" : "Yes"),
   },
   {
     id: "lat",
@@ -115,14 +113,14 @@ export default function Landing() {
         <Box marginRight={5}>
           <TextField
             id='outlined-error'
-            label='Search'
+            label='Filter by ID'
             variant='outlined'
             onChange={handleSearchChange}
           />
         </Box>
 
         <Button variant='contained' onClick={handleSearch}>
-          Search
+          Filter
         </Button>
       </Box>
 
