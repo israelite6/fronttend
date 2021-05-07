@@ -23,6 +23,6 @@ export default async function Fetch({ query, variables = {} }) {
     const { data } = await rawResponse.json();
     return data;
   } catch (e) {
-    console.log(e);
+    return { Vehicle: [] };
   }
 }
