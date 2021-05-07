@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vehicleapp/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/vehicleapp/static/js/main.7f0fecc4.chunk.js",
-    "main.js.map": "/vehicleapp/static/js/main.7f0fecc4.chunk.js.map",
+    "main.js": "/vehicleapp/static/js/main.f0951dcb.chunk.js",
+    "main.js.map": "/vehicleapp/static/js/main.f0951dcb.chunk.js.map",
     "runtime-main.js": "/vehicleapp/static/js/runtime-main.a11a0562.js",
     "runtime-main.js.map": "/vehicleapp/static/js/runtime-main.a11a0562.js.map",
     "static/js/2.75fd98cf.chunk.js": "/vehicleapp/static/js/2.75fd98cf.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a11a0562.js",
     "static/js/2.75fd98cf.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.7f0fecc4.chunk.js"
+    "static/js/main.f0951dcb.chunk.js"
   ]
 }
