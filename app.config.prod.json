@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "front-prod",
+      "script": "npx",
+      "interpreter": "none",
+      "args": "serve -s build -l 4021"
+    }
+  ]
+}

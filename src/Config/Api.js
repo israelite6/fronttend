@@ -1,1 +1,1 @@
-export const URL = "http://localhost:4000/graphql";
+export const URL = "http://israelalegbeleye.com/server/graphql";
